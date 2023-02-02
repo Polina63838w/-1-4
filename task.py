@@ -6,7 +6,7 @@
 # a = n // 100
 # h = n // 10 % 10
 # c =  n % 10
-
+# print (f'{a+h+c}')
 
 
 
@@ -49,7 +49,7 @@
 #     print (a4)
 #     a5 = int ((float (a/100) - int (a/100)) *10)
 #     print (a5)
-#     a6 = int ((float (a/10) - int (a/10)) *10 + 1)
+#     a6 = int ((float (a/10) - int (a/10)) *10)
 #     print (a6)
 # if (a1+a2+a3)==(a4+a5+a6):
 #     print ('Счастливый билет')
